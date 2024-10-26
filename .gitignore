@@ -1,9 +1,10 @@
-# Adding config.py file
+# Ignore API keys
 api_keys.py
-python-api-challenge\WeatherPy\VacationPy.ipynb
+WeatherPy/api_keys.py
+
+# Ignore specific notebook
+WeatherPy/VacationPy.ipynb
+
 # Ignore Python compiled files
 __pycache__/
 *.pyc
-
-# Ignore API keys
-WeatherPy/api_keys.py
