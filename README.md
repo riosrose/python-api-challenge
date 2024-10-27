@@ -12,12 +12,6 @@ CHALLENGE PURPOSE : In this challenge, work will demonstrate: Python requests, A
 # Code
  - Source Code stored in this repo to github.com/riosrose/python-api-challenge project that used : pandas, matplotlib,numpy,requests, time, lingress (from scipy stats), citipy.  
 
- - The noteboook is comprised of :
-         - x
-         - x
-         - x
-         - x  
-
 # Resources.. 
  - utilized for support with debugging, clarifications of code : ICBD module classword, Xpert Learning, and Gemini AI where needed and . 
 
