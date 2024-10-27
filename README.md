@@ -1,24 +1,23 @@
 # python-api-challenge
 UCB Data Analytics-Challenge 6 
 
-CHALLENGE PURPOSE : In this challenge, xxxxxxxxxxxxxxxxxxxxx.
+CHALLENGE PURPOSE : In this challenge, work will demonstrate: Python requests, APIs, and JSON traversals.
 
 # References
-The dataset used xxxxxx
-Source: xxxxxx
-Dataset: xxxxxx
-         The dataset is referanced and leveraged directly in xxxxxxxxxxxx. Data file is in a xxxxxxxxxxxx format. 
+ - Install citypy in your python environment (pip install citipy)
+ - Obtain OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
+ - Obtain Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+ - API Keys creation and storage it in the 'api_keys.py' file before running the Jupyter notebooks.
          
 # Code
-Source Code stored in this repo to xxxxxxxxxxxxxxxxxx project that used : xxxxxxxxxxx for xxxx, xxxx for xxxxx and xxxxx for xxxxxxxx. 
-**xxx : xxxxxxxxxxxxxxxx
-         This file contains the xxxxxxxxxxx. It includes xxxxxxxxxxxxxxxxxxxxx.
-**xxxx: xxxxxxxxxxxxxxx
-          The xxxx file is used to xxxxxxxxxxxxxxxx.
-**xxx : xxxxxxxxxxxxxxxx
-         This file contains the xxxxxxxxxxx. It includes xxxxxxxxxxxxxxxxxxxxx.
-**xxxx: xxxxxxxxxxxxxxx
-# Resources.. 
-         utilized for support with debugging, clarifications of code : Xpert Learning, AskABC Learning assistant(Robert & Nick), a tutoring session ( Angel) and Gemini AI where needed. 
+ - Source Code stored in this repo to github.com/riosrose/python-api-challenge project that used : pandas, matplotlib,numpy,requests, time, lingress (from scipy stats), citipy.  
 
-# Data sourced from : 
+ - The noteboook is comprised of :
+         - x
+         - x
+         - x
+         - x  
+
+# Resources.. 
+ - utilized for support with debugging, clarifications of code : ICBD module classword, Xpert Learning, and Gemini AI where needed and . 
+
